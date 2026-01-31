@@ -4,5 +4,15 @@
   "dependencies": {},
   "devDependencies": {
     "lerna": "^9.0.3"
+  },
+  "scripts": {
+    "dev": "lerna run dev --parallel",
+    "start": "lerna run start --parallel",
+    "build": "lerna run build --parallel",
+    "pretty": "npx prettier . --write",
+    "lint": "npx eslint .",
+    "lint:fix": "npx eslint . --fix",
+    "check": "npm run pretty && npm run lint:fix",
+    "prepare": "husky"
   }
 }

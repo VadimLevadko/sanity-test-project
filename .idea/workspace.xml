@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52cc633e-b8eb-4b15-aa44-d337cdf76854" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/production.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/components/DoorsOpenInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/artistType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/eventType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/venueType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/structure/defaultDocumentNode.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studio/structure/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/events/[slug]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app/utils/utils.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/next.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/postcss.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sanity/client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sanity/components.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sanity/image.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sanity/live.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sanity/queries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/studio/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/studio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/sanity.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/sanity.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/schemaTypes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/index.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VadimLevadko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VadimLevadko/sanity-test-project.git&quot;,
+    &quot;accountId&quot;: &quot;93a5c9bf-4ac9-4964-9d03-4009bf1a8509&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38RCZHaREvIXo72aRQmLSsGyc2g" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Users\\vadim\\WebstormProjects\\sanity-test-project\\studio\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\vadim\WebstormProjects\sanity-test-project\web" />
+      <recent name="D:\Users\vadim\WebstormProjects\sanity-test-project\studio" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cc633e-b8eb-4b15-aa44-d337cdf76854" name="Changes" comment="" />
+      <created>1768753049419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768753049419</updated>
+      <workItem from="1768753050538" duration="1281000" />
+      <workItem from="1768754352146" duration="11315000" />
+      <workItem from="1769770228219" duration="15579000" />
+      <workItem from="1769797586370" duration="2027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
