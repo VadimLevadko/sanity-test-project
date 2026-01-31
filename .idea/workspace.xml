@@ -5,47 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52cc633e-b8eb-4b15-aa44-d337cdf76854" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/production.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/components/DoorsOpenInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/artistType.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/eventType.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/venueType.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/structure/defaultDocumentNode.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studio/structure/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/events/[slug]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/utils/utils.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/eslint.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/next.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/postcss.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/globe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/window.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sanity/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sanity/components.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sanity/image.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sanity/live.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sanity/queries.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/studio/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/studio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/sanity.cli.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/sanity.cli.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studio/sanity.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/sanity.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/schemaTypes/components/DoorsOpenInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/components/DoorsOpenInput.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studio/schemaTypes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/schemaTypes/objects.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/objects.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/schemaTypes/objects/artistType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/artistType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/schemaTypes/objects/eventType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/eventType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/schemaTypes/objects/venueType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemaTypes/objects/venueType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/structure/defaultDocumentNode.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/structure/defaultDocumentNode.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio/structure/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/structure/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/events/[slug]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/events/[slug]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/utils/utils.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/web/eslint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/web/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/sanity/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/sanity/client.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/sanity/components.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/sanity/components.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/sanity/image.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/sanity/image.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/sanity/live.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/sanity/live.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/sanity/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/sanity/queries.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +82,8 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Users\\vadim\\WebstormProjects\\sanity-test-project\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
     &quot;ts.external.directory.path&quot;: &quot;D:\\Users\\vadim\\WebstormProjects\\sanity-test-project\\studio\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -117,6 +113,12 @@
       <workItem from="1768754352146" duration="11315000" />
       <workItem from="1769770228219" duration="15579000" />
       <workItem from="1769797586370" duration="2027000" />
+      <workItem from="1769869443233" duration="85000" />
+      <workItem from="1769873725531" duration="626000" />
+      <workItem from="1769874367197" duration="417000" />
+      <workItem from="1769874796469" duration="1138000" />
+      <workItem from="1769875955405" duration="97000" />
+      <workItem from="1769876088299" duration="1987000" />
     </task>
     <servers />
   </component>

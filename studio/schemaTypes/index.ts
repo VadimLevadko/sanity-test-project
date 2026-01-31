@@ -1,3 +1,3 @@
-import objects from './objects';
+import objects from './objects'
 
 export const schemaTypes = [...objects]

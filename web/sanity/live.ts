@@ -1,6 +1,6 @@
-import { defineLive } from "next-sanity/live";
-import { client } from "@/sanity/client";
+import { client } from '@/sanity/client';
+import { defineLive } from 'next-sanity/live';
 
 export const { sanityFetch, SanityLive } = defineLive({
-    client
+  client,
 });
