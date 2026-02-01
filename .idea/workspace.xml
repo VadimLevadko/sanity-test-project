@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52cc633e-b8eb-4b15-aa44-d337cdf76854" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/web/app/components/first-component/first-comp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/components/first-component/first-compt.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/components/path-planet/path-planet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/components/path-planet/path-planet.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/comet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/path.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/planet1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/planet2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/public/planet3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="52cc633e-b8eb-4b15-aa44-d337cdf76854" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,10 +86,22 @@
       <workItem from="1769875955405" duration="97000" />
       <workItem from="1769876088299" duration="2739000" />
       <workItem from="1769955272228" duration="9746000" />
+      <workItem from="1769974379394" duration="344000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
